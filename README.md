@@ -75,7 +75,7 @@ Note that a word is not considered to be its own anagram.
 We have provided a suite of tests to help as you develop the API. To run the tests you must have Ruby installed ([docs](https://www.ruby-lang.org/en/documentation/installation/)):
 
 ```{bash}
-ruby anagram_test.rb
+rake test
 ```
 
 You are encouraged to add additional test cases if that helps with your development process.
