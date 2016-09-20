@@ -1,0 +1,9 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  word: ruby
+  anagram_key: bruy
+
+two:
+  word: swift
+  anagram_key: fistw
