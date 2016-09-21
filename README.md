@@ -5,7 +5,11 @@ Rails API Interview Project
 
 ---
 
-The project is to build an API that allows fast searches for [anagrams](https://en.wikipedia.org/wiki/Anagram). `dictionary.txt` is a text file containing every word in the English dictionary. Ingesting the file doesn’t need to be fast, and you can store as much data in memory as you like.
+The project is to build a responsive web application upon an existing API that allows fast searches for [anagrams](https://en.wikipedia.org/wiki/Anagram). `dictionary.txt` is a text file containing every word in the English dictionary. Ingesting the file doesn’t need to be fast, and you can store as much data in memory as you like.
+
+The application and API provided may need to be modified to comply with good practice or to satisfy the requirements listed below.
+
+Visual and UX design are left up to the developer but will be an important aspect of the project.
 
 The API you design should respond on the following endpoints as specified.
 
@@ -68,7 +72,6 @@ HTTP/1.1 204 No Content
 ```
 
 Note that a word is not considered to be its own anagram.
-
 
 ## Tests
 
