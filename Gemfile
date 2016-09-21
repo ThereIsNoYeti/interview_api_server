@@ -10,8 +10,6 @@ gem 'redis-rails'
 gem 'jbuilder'
 gem 'rack-cors'
 
-gem 'ember-rails'
-
 group :development, :test do
 
 end
